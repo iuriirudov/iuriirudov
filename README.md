@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iuriirudov
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning web development, front-end and .NET Core framework
+- 🌱 I’m currently learning web development
 
 <!---
 iuriirudov/iuriirudov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
